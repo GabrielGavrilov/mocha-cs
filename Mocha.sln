@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mocha", "mocha-cs\Mocha.csproj", "{675E6A97-590B-4F21-BA92-548D13AD446B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{675E6A97-590B-4F21-BA92-548D13AD446B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675E6A97-590B-4F21-BA92-548D13AD446B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675E6A97-590B-4F21-BA92-548D13AD446B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675E6A97-590B-4F21-BA92-548D13AD446B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {749CFF63-2456-4736-82F6-23D17259747D}
+	EndGlobalSection
+EndGlobal
